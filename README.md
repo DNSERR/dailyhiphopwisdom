@@ -1,6 +1,3 @@
-# dailyhiphopwisdom
-Description: Daily affirmations &amp; journaling powered by hip-hop culture
-# Daily Hip Hop Wisdom
 
 **Daily Hip Hop Wisdom** is a Chrome extension that delivers intentional, affirming energy through the lens of hip-hop lyricism and personal journaling.
 
