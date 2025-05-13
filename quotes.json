@@ -1,0 +1,2196 @@
+{
+    "quotes": [
+      {
+        "id": 1,
+        "text": "Keep ya head up, ooh, child, things are gonna get easier.",
+        "author": "Tupac",
+        "song": "Keep Ya Head Up"
+      },
+      {
+        "id": 2,
+        "text": "I've got the world in my hands, and I won't let it go.",
+        "author": "Rakim",
+        "song": "Paid in Full"
+      },
+      {
+        "id": 3,
+        "text": "The sun will shine again.",
+        "author": "Tupac",
+        "song": "So Many Tears"
+      },
+      {
+        "id": 4,
+        "text": "Don't let the world change your smile; let your smile change the world.",
+        "author": "Nas",
+        "song": "If I Ruled the World"
+      },
+      {
+        "id": 5,
+        "text": "Dreams don't have deadlines.",
+        "author": "Kanye West",
+        "song": "Good Morning"
+      },
+      {
+        "id": 6,
+        "text": "If you believe in yourself, you will succeed.",
+        "author": "Rakim",
+        "song": "Follow the Leader"
+      },
+      {
+        "id": 7,
+        "text": "You can make it if you try.",
+        "author": "Tupac",
+        "song": "Keep Ya Head Up"
+      },
+      {
+        "id": 8,
+        "text": "The sky's the limit.",
+        "author": "Biggie Smalls",
+        "song": "Sky's the Limit"
+      },
+      {
+        "id": 9,
+        "text": "You can do anything you set your mind to.",
+        "author": "Drake",
+        "song": "Keep the Family Close"
+      },
+      {
+        "id": 10,
+        "text": "We all struggle, but we gotta get back up.",
+        "author": "Kanye West",
+        "song": "Through the Wire"
+      },
+      {
+        "id": 11,
+        "text": "Never let a hard time humble us.",
+        "author": "Tupac",
+        "song": "Keep Ya Head Up"
+      },
+      {
+        "id": 12,
+        "text": "Success is my only option, failure's not.",
+        "author": "Eminem",
+        "song": "Lose Yourself"
+      },
+      {
+        "id": 13,
+        "text": "Your thoughts create your reality.",
+        "author": "Rakim",
+        "song": "The 18th Letter"
+      },
+      {
+        "id": 14,
+        "text": "I won't stop until I get it right.",
+        "author": "Biggie Smalls",
+        "song": "Mo Money Mo Problems"
+      },
+      {
+        "id": 15,
+        "text": "Life is a marathon, not a sprint.",
+        "author": "Nas",
+        "song": "Nas Is Like"
+      },
+      {
+        "id": 16,
+        "text": "It ain't hard to tell, I excel, then prevail.",
+        "author": "Nas",
+        "song": "It Ain't Hard to Tell"
+      },
+      {
+        "id": 17,
+        "text": "Knowledge reigns supreme over nearly everyone.",
+        "author": "KRS-One",
+        "song": "The Bridge Is Over"
+      },
+      {
+        "id": 18,
+        "text": "Raw, I know you sick of this, the way that I'm kickin' this.",
+        "author": "Big Daddy Kane",
+        "song": "Raw"
+      },
+      {
+        "id": 19,
+        "text": "Life is what you make it, so let's make it.",
+        "author": "Q-Tip",
+        "song": "Gettin' Up"
+      },
+      {
+        "id": 20,
+        "text": "Children's stories can teach you a lot.",
+        "author": "Slick Rick",
+        "song": "Children's Story"
+      },
+      {
+        "id": 21,
+        "text": "Can I kick it? Yes, you can!",
+        "author": "A Tribe Called Quest",
+        "song": "Can I Kick It?"
+      },
+      {
+        "id": 22,
+        "text": "Be the change you want to see in the world.",
+        "author": "Common",
+        "song": "The Light"
+      },
+      {
+        "id": 23,
+        "text": "Dreams are for real, you just gotta chase them.",
+        "author": "Ghostface Killah",
+        "song": "All That I Got Is You"
+      },
+      {
+        "id": 24,
+        "text": "Get it together, you know you gotta shine.",
+        "author": "Talib Kweli",
+        "song": "Get By"
+      },
+      {
+        "id": 25,
+        "text": "Believe in yourself, and you can achieve.",
+        "author": "Mos Def",
+        "song": "Umi Says"
+      },
+      {
+        "id": 26,
+        "text": "Life is a movie, and the world is the screen.",
+        "author": "Nas",
+        "song": "N.Y. State of Mind"
+      },
+      {
+        "id": 27,
+        "text": "Education is the key to unlock the golden door.",
+        "author": "KRS-One",
+        "song": "Edutainment"
+      },
+      {
+        "id": 28,
+        "text": "Don't let nobody stop you, go for yours.",
+        "author": "Big Daddy Kane",
+        "song": "Ain't No Half-Steppin'"
+      },
+      {
+        "id": 29,
+        "text": "Stay true to yourself and you'll go far.",
+        "author": "Q-Tip",
+        "song": "Vibrant Thing"
+      },
+      {
+        "id": 30,
+        "text": "Live your life, don't let it pass you by.",
+        "author": "Slick Rick",
+        "song": "Mona Lisa"
+      },
+      {
+        "id": 31,
+        "text": "We're all in this together, so let's unite.",
+        "author": "A Tribe Called Quest",
+        "song": "Award Tour"
+      },
+      {
+        "id": 32,
+        "text": "Keep your head up, keep your faith strong.",
+        "author": "Common",
+        "song": "I Used to Love H.E.R."
+      },
+      {
+        "id": 33,
+        "text": "Life is what you make it, so live it well.",
+        "author": "Ghostface Killah",
+        "song": "Cherchez LaGhost"
+      },
+      {
+        "id": 34,
+        "text": "Your mind is a weapon; use it wisely.",
+        "author": "Talib Kweli",
+        "song": "Get By"
+      },
+      {
+        "id": 35,
+        "text": "Live your life, don't wait for tomorrow.",
+        "author": "Mos Def",
+        "song": "Mathematics"
+      },
+      {
+        "id": 36,
+        "text": "Dreams are for real, keep reaching.",
+        "author": "Nas",
+        "song": "One Mic"
+      },
+      {
+        "id": 37,
+        "text": "Stand for something, or you'll fall for anything.",
+        "author": "KRS-One",
+        "song": "Sound of da Police"
+      },
+      {
+        "id": 38,
+        "text": "Success is in the mind, so think positive.",
+        "author": "Big Daddy Kane",
+        "song": "Smooth Operator"
+      },
+      {
+        "id": 39,
+        "text": "Keep your dreams alive, don't let them die.",
+        "author": "Q-Tip",
+        "song": "Gettin' Up"
+      },
+      {
+        "id": 40,
+        "text": "Stay true to your heart, don't let it break.",
+        "author": "Slick Rick",
+        "song": "Teenage Love"
+      },
+      {
+        "id": 41,
+        "text": "Live your life, and don't be afraid.",
+        "author": "A Tribe Called Quest",
+        "song": "Can I Kick It?"
+      },
+      {
+        "id": 42,
+        "text": "Success is not a destination; it's a journey.",
+        "author": "Common",
+        "song": "I Want You"
+      },
+      {
+        "id": 43,
+        "text": "Always aim high, never settle for less.",
+        "author": "Ghostface Killah",
+        "song": "Supreme Clientele"
+      },
+      {
+        "id": 44,
+        "text": "Change the world, and it starts with you.",
+        "author": "Talib Kweli",
+        "song": "The Beautiful Struggle"
+      },
+      {
+        "id": 45,
+        "text": "Stay positive, life is a gift.",
+        "author": "Mos Def",
+        "song": "Black on Both Sides"
+      },
+      {
+        "id": 46,
+        "text": "Live your life, be proud of who you are.",
+        "author": "Nas",
+        "song": "Daughters"
+      },
+      {
+        "id": 47,
+        "text": "Use your brain, let knowledge reign.",
+        "author": "KRS-One",
+        "song": "MC's Act Like They Don't Know"
+      },
+      {
+        "id": 48,
+        "text": "Be yourself, don't follow the crowd.",
+        "author": "Big Daddy Kane",
+        "song": "I'll Take You There"
+      },
+      {
+        "id": 49,
+        "text": "Stay focused on your goals, don't get distracted.",
+        "author": "Q-Tip",
+        "song": "Find a Way"
+      },
+      {
+        "id": 50,
+        "text": "Stay true, stay fly, live your dreams.",
+        "author": "Slick Rick",
+        "song": "Slick Rick: The Ruler's Back"
+      },
+      {
+        "id": 51,
+        "text": "Let's celebrate life, it's a beautiful ride.",
+        "author": "A Tribe Called Quest",
+        "song": "Electric Relaxation"
+      },
+      {
+        "id": 52,
+        "text": "Keep shining bright, don't let them dim your light.",
+        "author": "Common",
+        "song": "Be"
+      },
+      {
+        "id": 53,
+        "text": "Stay true to your passion, never give up.",
+        "author": "Ghostface Killah",
+        "song": "The Champ"
+      },
+      {
+        "id": 54,
+        "text": "Unity is strength; let's build together.",
+        "author": "Talib Kweli",
+        "song": "Get By"
+      },
+      {
+        "id": 55,
+        "text": "Don't let fear hold you back from greatness.",
+        "author": "Mos Def",
+        "song": "The New Danger"
+      },
+      {
+        "id": 56,
+        "text": "Success is just a journey; keep on moving.",
+        "author": "Nas",
+        "song": "Success"
+      },
+      {
+        "id": 57,
+        "text": "Stay in school, education is your tool.",
+        "author": "KRS-One",
+        "song": "The MC"
+      },
+      {
+        "id": 58,
+        "text": "Think big, dream big, and you'll achieve.",
+        "author": "Big Daddy Kane",
+        "song": "Nuff Respect"
+      },
+      {
+        "id": 59,
+        "text": "Follow your dreams, and they will follow you.",
+        "author": "Q-Tip",
+        "song": "Fighting For My Life"
+      },
+      {
+        "id": 60,
+        "text": "Life is what you make it, so make it great.",
+        "author": "Slick Rick",
+        "song": "I Shouldn't Have Done It"
+      },
+      {
+        "id": 61,
+        "text": "Express yourself, let your voice be heard.",
+        "author": "A Tribe Called Quest",
+        "song": "Sucka Nigga"
+      },
+      {
+        "id": 62,
+        "text": "Be the light in a world of darkness.",
+        "author": "Common",
+        "song": "The People"
+      },
+      {
+        "id": 63,
+        "text": "Keep your head up, the struggle's worth it.",
+        "author": "Ghostface Killah",
+        "song": "Love Don't Live Here No More"
+      },
+      {
+        "id": 64,
+        "text": "Speak your truth, let your voice be loud.",
+        "author": "Talib Kweli",
+        "song": "The Beautiful Struggle"
+      },
+      {
+        "id": 65,
+        "text": "Every day is a chance to create something new.",
+        "author": "Mos Def",
+        "song": "The Ecstatic"
+      },
+      {
+        "id": 66,
+        "text": "You can't stop the waves, but you can learn to surf.",
+        "author": "Jack Johnson",
+        "song": "Better Together"
+      },
+      {
+        "id": 67,
+        "text": "Keep your head up, things will get better.",
+        "author": "Tupac",
+        "song": "Keep Ya Head Up"
+      },
+      {
+        "id": 68,
+        "text": "Live your dreams, don't wait for tomorrow.",
+        "author": "J. Cole",
+        "song": "The Cut Off"
+      },
+      {
+        "id": 69,
+        "text": "Success is my only option, failure's not.",
+        "author": "Eminem",
+        "song": "Lose Yourself"
+      },
+      {
+        "id": 70,
+        "text": "Today is the first day of the rest of your life.",
+        "author": "Chance the Rapper",
+        "song": "Same Drugs"
+      },
+      {
+        "id": 71,
+        "text": "Believe in yourself and all that you are.",
+        "author": "Nicki Minaj",
+        "song": "Moment 4 Life"
+      },
+      {
+        "id": 72,
+        "text": "You gotta stay true to you.",
+        "author": "Drake",
+        "song": "The Ride"
+      },
+      {
+        "id": 73,
+        "text": "Life is a journey, enjoy the ride.",
+        "author": "Ludacris",
+        "song": "Get Back"
+      },
+      {
+        "id": 74,
+        "text": "What doesn't kill you makes you stronger.",
+        "author": "Kelly Clarkson",
+        "song": "Stronger"
+      },
+      {
+        "id": 75,
+        "text": "The future is bright, just hold on tight.",
+        "author": "Lil Wayne",
+        "song": "Mr. Carter"
+      },
+      {
+        "id": 76,
+        "text": "Every day above ground is a good day.",
+        "author": "Curren$y",
+        "song": "Mary"
+      },
+      {
+        "id": 77,
+        "text": "You're a star, and you're shining bright.",
+        "author": "Snoop Dogg",
+        "song": "Who Am I? (What's My Name?)"
+      },
+      {
+        "id": 78,
+        "text": "Dream big, work hard, stay humble.",
+        "author": "Meek Mill",
+        "song": "Dreams and Nightmares"
+      },
+      {
+        "id": 79,
+        "text": "Your only limit is you.",
+        "author": "J. Cole",
+        "song": "Love Yourz"
+      },
+      {
+        "id": 80,
+        "text": "Stay strong, keep pushing on.",
+        "author": "Wiz Khalifa",
+        "song": "See You Again"
+      },
+      {
+        "id": 81,
+        "text": "Keep striving for the best, don't settle for less.",
+        "author": "Talib Kweli",
+        "song": "Get By"
+      },
+      {
+        "id": 82,
+        "text": "You can achieve anything if you believe.",
+        "author": "Big Sean",
+        "song": "I Don't F*** with You"
+      },
+      {
+        "id": 83,
+        "text": "Life's a marathon, keep running your race.",
+        "author": "Nas",
+        "song": "The Message"
+      },
+      {
+        "id": 84,
+        "text": "Don't let anyone dim your light.",
+        "author": "Anderson .Paak",
+        "song": "Come Down"
+      },
+      {
+        "id": 85,
+        "text": "You were born to stand out.",
+        "author": "Logic",
+        "song": "The Incredible True Story"
+      },
+      {
+        "id": 86,
+        "text": "It's a beautiful day, don't let it get away.",
+        "author": "U2",
+        "song": "Sunday Bloody Sunday"
+      },
+      {
+        "id": 87,
+        "text": "Hold your head up, it's gonna be alright.",
+        "author": "Lil Nas X",
+        "song": "Panini"
+      },
+      {
+        "id": 88,
+        "text": "Life is what you make it, so make it great.",
+        "author": "Slick Rick",
+        "song": "Children's Story"
+      },
+      {
+        "id": 89,
+        "text": "Take a deep breath and let it all go.",
+        "author": "Kid Cudi",
+        "song": "Pursuit of Happiness"
+      },
+      {
+        "id": 90,
+        "text": "You got to be you, unapologetically.",
+        "author": "Noname",
+        "song": "Diddy Bop"
+      },
+      {
+        "id": 91,
+        "text": "Always be a first-rate version of yourself.",
+        "author": "Kanye West",
+        "song": "Stronger"
+      },
+      {
+        "id": 92,
+        "text": "Rise up and take your place.",
+        "author": "Rapsody",
+        "song": "Power"
+      },
+      {
+        "id": 93,
+        "text": "Keep dreaming, and never stop believing.",
+        "author": "Mac Miller",
+        "song": "Dang!"
+      },
+      {
+        "id": 94,
+        "text": "Everything will be alright in the end.",
+        "author": "J. Cole",
+        "song": "Love Yourz"
+      },
+      {
+        "id": 95,
+        "text": "Believe you can, and you're halfway there.",
+        "author": "Drake",
+        "song": "Started From The Bottom"
+      },
+      {
+        "id": 96,
+        "text": "You have the power to change your story.",
+        "author": "Anderson .Paak",
+        "song": "Bubblin"
+      },
+      {
+        "id": 97,
+        "text": "Shine your light, let it show.",
+        "author": "Logic",
+        "song": "Anarchy"
+      },
+      {
+        "id": 98,
+        "text": "Life is too short to be anything but happy.",
+        "author": "YG",
+        "song": "Who Do You Love?"
+      },
+      {
+        "id": 99,
+        "text": "Follow your dreams, never look back.",
+        "author": "50 Cent",
+        "song": "Hustler's Ambition"
+      },
+      {
+        "id": 100,
+        "text": "You can do anything you set your mind to.",
+        "author": "Nicki Minaj",
+        "song": "Fly"
+      },
+      {
+        "id": 101,
+        "text": "Be yourself; everyone else is taken.",
+        "author": "Drake",
+        "song": "God's Plan"
+      },
+      {
+        "id": 102,
+        "text": "Stay hungry, stay foolish.",
+        "author": "Kid Cudi",
+        "song": "All Along"
+      },
+      {
+        "id": 103,
+        "text": "It's a new day, time to make it count.",
+        "author": "Wale",
+        "song": "The Matrimony"
+      },
+      {
+        "id": 104,
+        "text": "You're stronger than you know.",
+        "author": "JAY-Z",
+        "song": "On to the Next One"
+      },
+      {
+        "id": 105,
+        "text": "Keep your head up; you're not alone.",
+        "author": "Chance the Rapper",
+        "song": "Blessings"
+      },
+      {
+        "id": 106,
+        "text": "You are your only limit.",
+        "author": "Cardi B",
+        "song": "Bodak Yellow"
+      },
+      {
+        "id": 107,
+        "text": "Every setback is a setup for a comeback.",
+        "author": "Ludacris",
+        "song": "The Potion"
+      },
+      {
+        "id": 108,
+        "text": "You were born to win.",
+        "author": "Drake",
+        "song": "The Ride"
+      },
+      {
+        "id": 109,
+        "text": "Dreams come true if you work for them.",
+        "author": "J. Cole",
+        "song": "Power Trip"
+      },
+      {
+        "id": 110,
+        "text": "Keep climbing, you'll reach the top.",
+        "author": "Lil Wayne",
+        "song": "6 Foot 7 Foot"
+      },
+      {
+        "id": 111,
+        "text": "Don't let fear hold you back.",
+        "author": "Missy Elliott",
+        "song": "Get Ur Freak On"
+      },
+      {
+        "id": 112,
+        "text": "Live life, love life.",
+        "author": "Rick Ross",
+        "song": "Everyday I'm Hustlin'"
+      },
+      {
+        "id": 113,
+        "text": "Never stop believing in yourself.",
+        "author": "T-Pain",
+        "song": "Buy U a Drank"
+      },
+      {
+        "id": 114,
+        "text": "You can be anything you want to be.",
+        "author": "Lil Uzi Vert",
+        "song": "Money Longer"
+      },
+      {
+        "id": 115,
+        "text": "Rise above, stay true to yourself.",
+        "author": "YG",
+        "song": "Go Loko"
+      },
+      {
+        "id": 116,
+        "text": "You gotta keep your head up.",
+        "author": "2Pac",
+        "song": "Keep Ya Head Up"
+      },
+      {
+        "id": 117,
+        "text": "Success is a journey, not a destination.",
+        "author": "Nas",
+        "song": "The Don"
+      },
+      {
+        "id": 118,
+        "text": "Believe in your dreams and make them happen.",
+        "author": "JAY-Z",
+        "song": "Empire State of Mind"
+      },
+      {
+        "id": 119,
+        "text": "Stay true to yourself and you'll find happiness.",
+        "author": "Kanye West",
+        "song": "All of the Lights"
+      },
+      {
+        "id": 120,
+        "text": "Every day is a chance to get better.",
+        "author": "J. Cole",
+        "song": "No Role Modelz"
+      },
+      {
+        "id": 121,
+        "text": "Don't stop until you get enough.",
+        "author": "Michael Jackson",
+        "song": "Don't Stop 'Til You Get Enough"
+      },
+      {
+        "id": 122,
+        "text": "The world is yours, go chase it.",
+        "author": "Nas",
+        "song": "The World Is Yours"
+      },
+      {
+        "id": 123,
+        "text": "Keep pushing forward, don't look back.",
+        "author": "Rick Ross",
+        "song": "Hustlin'"
+      },
+      {
+        "id": 124,
+        "text": "Shine bright, you're a diamond.",
+        "author": "Nicki Minaj",
+        "song": "Moment 4 Life"
+      },
+      {
+        "id": 125,
+        "text": "You are enough, just as you are.",
+        "author": "Logic",
+        "song": "1-800-273-8255"
+      },
+      {
+        "id": 126,
+        "text": "Your future is bright; don't be afraid.",
+        "author": "Childish Gambino",
+        "song": "3005"
+      },
+      {
+        "id": 127,
+        "text": "Keep moving forward, never lose hope.",
+        "author": "J. Cole",
+        "song": "Dreams"
+      },
+      {
+        "id": 128,
+        "text": "Be proud of who you are and what you've done.",
+        "author": "50 Cent",
+        "song": "Many Men (Wish Death)"
+      },
+      {
+        "id": 129,
+        "text": "You got the power; use it wisely.",
+        "author": "KRS-One",
+        "song": "Sound of da Police"
+      },
+      {
+        "id": 130,
+        "text": "Stay true, stay strong, and keep on going.",
+        "author": "Mos Def",
+        "song": "Umi Says"
+      },
+      {
+        "id": 131,
+        "text": "Success starts with self-belief.",
+        "author": "Big Sean",
+        "song": "Blessings"
+      },
+      {
+        "id": 132,
+        "text": "Life is a gift, make the most of it.",
+        "author": "Chance the Rapper",
+        "song": "Smoke Again"
+      },
+      {
+        "id": 133,
+        "text": "Keep your dreams alive; they're worth fighting for.",
+        "author": "Lil Wayne",
+        "song": "A Milli"
+      },
+      {
+        "id": 134,
+        "text": "Your mind can achieve what you believe.",
+        "author": "Talib Kweli",
+        "song": "Get By"
+      },
+      {
+        "id": 135,
+        "text": "You're on the right path; keep moving.",
+        "author": "Drake",
+        "song": "Started From The Bottom"
+      },
+      {
+        "id": 136,
+        "text": "Turn your wounds into wisdom.",
+        "author": "Jay-Z",
+        "song": "Moment of Clarity"
+      },
+      {
+        "id": 137,
+        "text": "Rise above the hate and negativity.",
+        "author": "Snoop Dogg",
+        "song": "Who Am I?"
+      },
+      {
+        "id": 138,
+        "text": "Believe in your power to change the world.",
+        "author": "Common",
+        "song": "I Have a Dream"
+      },
+      {
+        "id": 139,
+        "text": "Keep your head high and stay strong.",
+        "author": "2Pac",
+        "song": "So Many Tears"
+      },
+      {
+        "id": 140,
+        "text": "Life is a canvas; paint your dreams.",
+        "author": "Kid Cudi",
+        "song": "Pursuit of Happiness"
+      },
+      {
+        "id": 141,
+        "text": "You are the author of your own story.",
+        "author": "Lil Nas X",
+        "song": "Holiday"
+      },
+      {
+        "id": 142,
+        "text": "Chase your dreams, and don't look back.",
+        "author": "Meek Mill",
+        "song": "Wins and Losses"
+      },
+      {
+        "id": 143,
+        "text": "Let your passion be your guide.",
+        "author": "Ghostface Killah",
+        "song": "All That I Got Is You"
+      },
+      {
+        "id": 144,
+        "text": "Keep the faith; brighter days are coming.",
+        "author": "Rapsody",
+        "song": "Power"
+      },
+      {
+        "id": 145,
+        "text": "Don't let fear stand in your way.",
+        "author": "Cardi B",
+        "song": "Bodak Yellow"
+      },
+      {
+        "id": 146,
+        "text": "Stay focused, stay true.",
+        "author": "Lil Uzi Vert",
+        "song": "XO TOUR Llif3"
+      },
+      {
+        "id": 147,
+        "text": "Your life is your message to the world.",
+        "author": "JAY-Z",
+        "song": "The Story of O.J."
+      },
+      {
+        "id": 148,
+        "text": "Success is a process, enjoy the ride.",
+        "author": "Kendrick Lamar",
+        "song": "i"
+      },
+      {
+        "id": 149,
+        "text": "You are stronger than your circumstances.",
+        "author": "Kendrick Lamar",
+        "song": "Alright"
+      },
+      {
+        "id": 150,
+        "text": "Don't let setbacks define you; let your comebacks speak.",
+        "author": "Drake",
+        "song": "God's Plan"
+      },
+      {
+        "id": 151,
+        "text": "Every dream starts with a single step.",
+        "author": "J. Cole",
+        "song": "Crooked Smile"
+      },
+      {
+        "id": 152,
+        "text": "Rise above the storm, and you will find the sunshine.",
+        "author": "Logic",
+        "song": "Fade Away"
+      },
+      {
+        "id": 153,
+        "text": "Life's a struggle, but you gotta keep the faith.",
+        "author": "Kanye West",
+        "song": "Jesus Walks"
+      },
+      {
+        "id": 154,
+        "text": "Your journey is yours alone; embrace every challenge.",
+        "author": "Big Sean",
+        "song": "One Man Can Change the World"
+      },
+      {
+        "id": 155,
+        "text": "Find the fire inside and let it guide you.",
+        "author": "Travis Scott",
+        "song": "Stop Trying to Be God"
+      },
+      {
+        "id": 156,
+        "text": "Dreams don't work unless you do.",
+        "author": "Nipsey Hussle",
+        "song": "Hussle & Motivate"
+      },
+      {
+        "id": 157,
+        "text": "Keep your head high, no matter how low life gets.",
+        "author": "2 Chainz",
+        "song": "Good Drank"
+      },
+      {
+        "id": 158,
+        "text": "Believe in the power of your grind.",
+        "author": "Lil Wayne",
+        "song": "Dedicate"
+      },
+      {
+        "id": 159,
+        "text": "No one can stop your greatness but you.",
+        "author": "Cardi B",
+        "song": "Get Up 10"
+      },
+      {
+        "id": 160,
+        "text": "Chase your dreams like they owe you something.",
+        "author": "Meek Mill",
+        "song": "Trauma"
+      },
+      {
+        "id": 161,
+        "text": "In every failure, there's a lesson to be learned.",
+        "author": "Rick Ross",
+        "song": "Aston Martin Music"
+      },
+      {
+        "id": 162,
+        "text": "You're destined for more; don't settle for less.",
+        "author": "Nas",
+        "song": "It Ain't Hard to Tell"
+      },
+      {
+        "id": 163,
+        "text": "Live boldly, love freely, and chase greatness.",
+        "author": "Rapsody",
+        "song": "Laila's Wisdom"
+      },
+      {
+        "id": 164,
+        "text": "Every scar is a reminder of how far you've come.",
+        "author": "Drake",
+        "song": "Pound Cake"
+      },
+      {
+        "id": 165,
+        "text": "Turn every loss into a lesson.",
+        "author": "Jay-Z",
+        "song": "Hard Knock Life"
+      },
+      {
+        "id": 166,
+        "text": "Let your hustle be louder than your words.",
+        "author": "Future",
+        "song": "March Madness"
+      },
+      {
+        "id": 167,
+        "text": "Success is the best revenge.",
+        "author": "50 Cent",
+        "song": "Many Men"
+      },
+      {
+        "id": 168,
+        "text": "The road to success is always under construction.",
+        "author": "Snoop Dogg",
+        "song": "Gin and Juice"
+      },
+      {
+        "id": 169,
+        "text": "Keep pushing, no matter what they say.",
+        "author": "J. Cole",
+        "song": "January 28th"
+      },
+      {
+        "id": 170,
+        "text": "Rise, shine, and show the world your light.",
+        "author": "Childish Gambino",
+        "song": "Redbone"
+      },
+      {
+        "id": 171,
+        "text": "You define your worth, not the world.",
+        "author": "Kendrick Lamar",
+        "song": "DNA"
+      },
+      {
+        "id": 172,
+        "text": "Greatness is within your reach; grab it.",
+        "author": "Big Sean",
+        "song": "Blessings"
+      },
+      {
+        "id": 173,
+        "text": "Every mountain you climb makes you stronger.",
+        "author": "Lil Baby",
+        "song": "The Bigger Picture"
+      },
+      {
+        "id": 174,
+        "text": "Be proud of how far you've come and excited for what's ahead.",
+        "author": "2Pac",
+        "song": "Me Against the World"
+      },
+      {
+        "id": 175,
+        "text": "You were born to stand out, not fit in.",
+        "author": "Nicki Minaj",
+        "song": "Super Bass"
+      },
+      {
+        "id": 176,
+        "text": "Dream big, hustle harder.",
+        "author": "Nipsey Hussle",
+        "song": "Racks in the Middle"
+      },
+      {
+        "id": 177,
+        "text": "The world is yours to conquer.",
+        "author": "Jay-Z",
+        "song": "Show Me What You Got"
+      },
+      {
+        "id": 178,
+        "text": "Struggle builds strength; don't fear the grind.",
+        "author": "Meek Mill",
+        "song": "Dreams Worth More Than Money"
+      },
+      {
+        "id": 179,
+        "text": "Be the hero of your own story.",
+        "author": "Travis Scott",
+        "song": "Sicko Mode"
+      },
+      {
+        "id": 180,
+        "text": "Your vision is your power; trust it.",
+        "author": "Kanye West",
+        "song": "Power"
+      },
+      {
+        "id": 181,
+        "text": "There is no limit to what you can achieve.",
+        "author": "Lil Wayne",
+        "song": "Uproar"
+      },
+      {
+        "id": 182,
+        "text": "Everything you need is already within you.",
+        "author": "Rick Ross",
+        "song": "The Boss"
+      },
+      {
+        "id": 183,
+        "text": "Wake up with purpose, chase your greatness.",
+        "author": "Biggie Smalls",
+        "song": "Juicy"
+      },
+      {
+        "id": 184,
+        "text": "The future is what you make it; dream big.",
+        "author": "Nas",
+        "song": "The World Is Yours"
+      },
+      {
+        "id": 185,
+        "text": "Courage is fear that has said its prayers.",
+        "author": "Eminem",
+        "song": "Not Afraid"
+      },
+      {
+        "id": 186,
+        "text": "Turn your dreams into plans, and plans into reality.",
+        "author": "Drake",
+        "song": "God's Plan"
+      },
+      {
+        "id": 187,
+        "text": "The top is lonely, but the view is worth it.",
+        "author": "Nicki Minaj",
+        "song": "Moment 4 Life"
+      },
+      {
+        "id": 188,
+        "text": "Hustle in silence, let success make the noise.",
+        "author": "Big Sean",
+        "song": "Moves"
+      },
+      {
+        "id": 189,
+        "text": "The best way to predict the future is to create it.",
+        "author": "J. Cole",
+        "song": "No Role Modelz"
+      },
+      {
+        "id": 190,
+        "text": "Keep your spirit strong, and your mind focused.",
+        "author": "Kendrick Lamar",
+        "song": "Humble"
+      },
+      {
+        "id": 191,
+        "text": "Don't count the days, make the days count.",
+        "author": "Lil Wayne",
+        "song": "6 Foot 7 Foot"
+      },
+      {
+        "id": 192,
+        "text": "Success requires struggle, but the reward is worth it.",
+        "author": "Meek Mill",
+        "song": "Championships"
+      },
+      {
+        "id": 193,
+        "text": "Dreams become reality with hard work and dedication.",
+        "author": "Nipsey Hussle",
+        "song": "Victory Lap"
+      },
+      {
+        "id": 194,
+        "text": "Be relentless in the pursuit of your goals.",
+        "author": "Future",
+        "song": "Mask Off"
+      },
+      {
+        "id": 195,
+        "text": "Stay true to yourself, and greatness will follow.",
+        "author": "Nas",
+        "song": "N.Y. State of Mind"
+      },
+      {
+        "id": 196,
+        "text": "Let your passion fuel your purpose.",
+        "author": "Lil Uzi Vert",
+        "song": "XO TOUR Llif3"
+      },
+      {
+        "id": 197,
+        "text": "Keep climbing, and don't stop until you reach the stars.",
+        "author": "50 Cent",
+        "song": "Hustler's Ambition"
+      },
+      {
+        "id": 198,
+        "text": "You are the author of your own success story.",
+        "author": "Jay-Z",
+        "song": "The Story of O.J."
+      },
+      {
+        "id": 199,
+        "text": "Every setback is a setup for a major comeback.",
+        "author": "Cardi B",
+        "song": "Money"
+      },
+      {
+        "id": 200,
+        "text": "Let your hustle speak louder than your words.",
+        "author": "Rick Ross",
+        "song": "Hustlin'"
+      },
+      {
+        "id": 201,
+        "text": "Believe in the process, trust the journey.",
+        "author": "Kendrick Lamar",
+        "song": "The Heart Part 4"
+      },
+      {
+        "id": 202,
+        "text": "Success starts with self-discipline and ends with determination.",
+        "author": "J. Cole",
+        "song": "G.O.M.D."
+      },
+      {
+        "id": 203,
+        "text": "The grind never stops, and neither should you.",
+        "author": "Lil Baby",
+        "song": "Freestyle"
+      },
+      {
+        "id": 204,
+        "text": "Turn your vision into victory.",
+        "author": "Meek Mill",
+        "song": "Going Bad"
+      },
+      {
+        "id": 205,
+        "text": "You are unstoppable, no matter what they say.",
+        "author": "Kanye West",
+        "song": "Can't Tell Me Nothing"
+      },
+      {
+        "id": 206,
+        "text": "Perseverance turns dreams into reality.",
+        "author": "Big Sean",
+        "song": "I Know"
+      },
+      {
+        "id": 207,
+        "text": "The only limits are the ones you place on yourself.",
+        "author": "2Pac",
+        "song": "Ambitionz Az a Ridah"
+      },
+      {
+        "id": 208,
+        "text": "You are built for greatness; don't stop now.",
+        "author": "Nicki Minaj",
+        "song": "Chun-Li"
+      },
+      {
+        "id": 209,
+        "text": "Turn every obstacle into an opportunity.",
+        "author": "Future",
+        "song": "Low Life"
+      },
+      {
+        "id": 210,
+        "text": "You don't have to be perfect, just consistent.",
+        "author": "Travis Scott",
+        "song": "Stargazing"
+      },
+      {
+        "id": 211,
+        "text": "Your potential is limitless, keep pushing.",
+        "author": "Lil Wayne",
+        "song": "Mirror"
+      },
+      {
+        "id": 212,
+        "text": "The journey is long, but success is worth the wait.",
+        "author": "Drake",
+        "song": "Nonstop"
+      },
+      {
+        "id": 213,
+        "text": "Fight for your dreams like your life depends on it.",
+        "author": "Nipsey Hussle",
+        "song": "Last Time That I Checc’d"
+      },
+      {
+        "id": 214,
+        "text": "Success is earned, not given.",
+        "author": "Rick Ross",
+        "song": "Maybach Music"
+      },
+      {
+        "id": 215,
+        "text": "Greatness requires patience and persistence.",
+        "author": "Kendrick Lamar",
+        "song": "King Kunta"
+      },
+      {
+        "id": 216,
+        "text": "Your journey is unique, embrace every moment.",
+        "author": "Childish Gambino",
+        "song": "This Is America"
+      },
+      {
+        "id": 217,
+        "text": "The grind doesn't stop until you're at the top.",
+        "author": "Meek Mill",
+        "song": "Intro"
+      },
+      {
+        "id": 218,
+        "text": "Stay hungry, stay ambitious.",
+        "author": "50 Cent",
+        "song": "If I Can't"
+      },
+      {
+        "id": 219,
+        "text": "Never settle for anything less than your dreams.",
+        "author": "Lil Baby",
+        "song": "Emotionally Scarred"
+      },
+      {
+        "id": 220,
+        "text": "Be a leader, not a follower.",
+        "author": "Jay-Z",
+        "song": "Blueprint 2"
+      },
+      {
+        "id": 221,
+        "text": "Your hard work will pay off, just keep going.",
+        "author": "Big Sean",
+        "song": "Bounce Back"
+      },
+      {
+        "id": 222,
+        "text": "Let your light shine brighter than your fears.",
+        "author": "J. Cole",
+        "song": "Middle Child"
+      },
+      {
+        "id": 223,
+        "text": "You are your only competition.",
+        "author": "Cardi B",
+        "song": "Be Careful"
+      },
+      {
+        "id": 224,
+        "text": "Grind with purpose, hustle with heart.",
+        "author": "Nipsey Hussle",
+        "song": "Grinding All My Life"
+      },
+      {
+        "id": 225,
+        "text": "Fear is temporary, greatness is forever.",
+        "author": "Travis Scott",
+        "song": "Butterfly Effect"
+      },
+      {
+        "id": 226,
+        "text": "The power to succeed is already inside you.",
+        "author": "Lil Wayne",
+        "song": "How to Love"
+      },
+      {
+        "id": 227,
+        "text": "Don't stop until you're proud of what you've become.",
+        "author": "Drake",
+        "song": "Emotionless"
+      },
+      {
+        "id": 228,
+        "text": "Hard times build strong people.",
+        "author": "2Pac",
+        "song": "Changes"
+      },
+      {
+        "id": 229,
+        "text": "Keep rising, and one day the world will notice.",
+        "author": "Meek Mill",
+        "song": "1942 Flows"
+      },
+      {
+        "id": 230,
+        "text": "Your mindset determines your future.",
+        "author": "Kendrick Lamar",
+        "song": "Loyalty"
+      },
+      {
+        "id": 231,
+        "text": "Be a warrior, not a worrier.",
+        "author": "Rick Ross",
+        "song": "Hustlin'"
+      },
+      {
+        "id": 232,
+        "text": "Your potential is infinite, never doubt it.",
+        "author": "Jay-Z",
+        "song": "Moment of Clarity"
+      },
+      {
+        "id": 233,
+        "text": "Take the leap of faith and grow your wings on the way down.",
+        "author": "Kanye West",
+        "song": "Touch the Sky"
+      },
+      {
+        "id": 234,
+        "text": "Don't just talk about it, be about it.",
+        "author": "Travis Scott",
+        "song": "Goosebumps"
+      },
+      {
+        "id": 235,
+        "text": "Success is measured by how hard you bounce back.",
+        "author": "Big Sean",
+        "song": "Deep Reverence"
+      },
+      {
+        "id": 236,
+        "text": "Rise above your circumstances, and you'll rise above your limits.",
+        "author": "Drake",
+        "song": "Tuscan Leather"
+      },
+      {
+        "id": 237,
+        "text": "Chase your dreams with passion, not fear.",
+        "author": "Nas",
+        "song": "Made You Look"
+      },
+      {
+        "id": 238,
+        "text": "You are a force of nature, unstoppable and undeniable.",
+        "author": "50 Cent",
+        "song": "Window Shopper"
+      },
+      {
+        "id": 239,
+        "text": "You are capable of more than you can imagine.",
+        "author": "Lil Uzi Vert",
+        "song": "Sauce It Up"
+      },
+      {
+        "id": 240,
+        "text": "Your hustle will open doors.",
+        "author": "J. Cole",
+        "song": "MIDDLE CHILD"
+      },
+      {
+        "id": 241,
+        "text": "Dream, believe, and achieve.",
+        "author": "Cardi B",
+        "song": "I Like It"
+      },
+      {
+        "id": 242,
+        "text": "Don't be afraid to shine; the world needs your light.",
+        "author": "Travis Scott",
+        "song": "Highest in the Room"
+      },
+      {
+        "id": 243,
+        "text": "What you do today shapes your tomorrow.",
+        "author": "Lil Wayne",
+        "song": "Lollipop"
+      },
+      {
+        "id": 244,
+        "text": "Live your truth, even if it makes others uncomfortable.",
+        "author": "Kendrick Lamar",
+        "song": "Alright"
+      },
+      {
+        "id": 245,
+        "text": "Success is built on a foundation of perseverance and faith.",
+        "author": "Nipsey Hussle",
+        "song": "Rap N*****"
+      },
+      {
+        "id": 246,
+        "text": "Step into your greatness, no one can do it for you.",
+        "author": "Rakim",
+        "song": "Paid in Full"
+      },
+      {
+        "id": 247,
+        "text": "Knowledge is the key, unlock your future with it.",
+        "author": "KRS-One",
+        "song": "My Philosophy"
+      },
+      {
+        "id": 248,
+        "text": "Fight for your freedom, and rise above the system.",
+        "author": "Chuck D",
+        "song": "Fight the Power"
+      },
+      {
+        "id": 249,
+        "text": "Keep striving, your vision is closer than you think.",
+        "author": "LL Cool J",
+        "song": "Mama Said Knock You Out"
+      },
+      {
+        "id": 250,
+        "text": "Success ain't about luck, it's about grind and dedication.",
+        "author": "Ice-T",
+        "song": "Colors"
+      },
+      {
+        "id": 251,
+        "text": "Keep your head high, and your mind higher.",
+        "author": "Big Daddy Kane",
+        "song": "Ain't No Half-Steppin'"
+      },
+      {
+        "id": 252,
+        "text": "Stand tall in the face of adversity; you're built for this.",
+        "author": "MC Lyte",
+        "song": "Cha Cha Cha"
+      },
+      {
+        "id": 253,
+        "text": "The world is yours, make your mark without fear.",
+        "author": "Slick Rick",
+        "song": "Children's Story"
+      },
+      {
+        "id": 254,
+        "text": "Strength comes from within; use it to change the world.",
+        "author": "Queen Latifah",
+        "song": "Ladies First"
+      },
+      {
+        "id": 255,
+        "text": "Your potential has no limits; break barriers daily.",
+        "author": "Grandmaster Flash",
+        "song": "The Message"
+      },
+      {
+        "id": 256,
+        "text": "Elevate your thoughts, and the world will rise with you.",
+        "author": "Rakim",
+        "song": "Eric B. Is President"
+      },
+      {
+        "id": 257,
+        "text": "Peace, love, unity, and having fun—that’s how we overcome.",
+        "author": "Afrika Bambaataa",
+        "song": "Planet Rock"
+      },
+      {
+        "id": 258,
+        "text": "Power is in your hands, don’t let anyone take it from you.",
+        "author": "Chuck D",
+        "song": "Bring the Noise"
+      },
+      {
+        "id": 259,
+        "text": "Turn your pain into progress, that’s how legends are born.",
+        "author": "LL Cool J",
+        "song": "I'm Bad"
+      },
+      {
+        "id": 260,
+        "text": "No matter the struggle, rise like you’re born to win.",
+        "author": "Big Daddy Kane",
+        "song": "Smooth Operator"
+      },
+      {
+        "id": 261,
+        "text": "Keep your dreams alive, the world needs your shine.",
+        "author": "MC Lyte",
+        "song": "Paper Thin"
+      },
+      {
+        "id": 262,
+        "text": "Make every move count, your future depends on it.",
+        "author": "Ice-T",
+        "song": "6 'N the Mornin'"
+      },
+      {
+        "id": 263,
+        "text": "You have the strength to overcome anything, believe in it.",
+        "author": "Queen Latifah",
+        "song": "UNITY"
+      },
+      {
+        "id": 264,
+        "text": "Don’t just watch the clock, become the timekeeper of your dreams.",
+        "author": "Rakim",
+        "song": "Know the Ledge"
+      },
+      {
+        "id": 265,
+        "text": "Live your life like it’s golden, and the world will notice.",
+        "author": "Slick Rick",
+        "song": "Hey Young World"
+      },
+      {
+        "id": 266,
+        "text": "Keep your mind sharp and your hustle sharper.",
+        "author": "Big Daddy Kane",
+        "song": "Raw"
+      },
+      {
+        "id": 267,
+        "text": "Resilience is your greatest weapon, use it wisely.",
+        "author": "KRS-One",
+        "song": "Sound of da Police"
+      },
+      {
+        "id": 268,
+        "text": "Change your mindset, and watch your world shift.",
+        "author": "Chuck D",
+        "song": "Rebel Without a Pause"
+      },
+      {
+        "id": 269,
+        "text": "Greatness comes from believing in yourself first.",
+        "author": "LL Cool J",
+        "song": "Rock the Bells"
+      },
+      {
+        "id": 270,
+        "text": "You have the power to rewrite your story, start today.",
+        "author": "Queen Latifah",
+        "song": "Just Another Day"
+      },
+      {
+        "id": 271,
+        "text": "Every struggle is a stepping stone to something greater.",
+        "author": "Slick Rick",
+        "song": "Mona Lisa"
+      },
+      {
+        "id": 272,
+        "text": "Success is built on the lessons learned from failure.",
+        "author": "Rakim",
+        "song": "I Ain't No Joke"
+      },
+      {
+        "id": 273,
+        "text": "Keep your vision clear, and your grind unstoppable.",
+        "author": "Ice-T",
+        "song": "New Jack Hustler"
+      },
+      {
+        "id": 274,
+        "text": "The harder the battle, the sweeter the victory.",
+        "author": "MC Lyte",
+        "song": "Poor Georgie"
+      },
+      {
+        "id": 275,
+        "text": "Your future is waiting for you, step into it with confidence.",
+        "author": "KRS-One",
+        "song": "Step Into a World"
+      },
+      {
+        "id": 276,
+        "text": "Strength doesn’t come from what you can do; it comes from overcoming what you thought you couldn’t.",
+        "author": "LL Cool J",
+        "song": "Doin' It"
+      },
+      {
+        "id": 277,
+        "text": "Rise above the noise and let your voice be heard.",
+        "author": "Chuck D",
+        "song": "Don’t Believe the Hype"
+      },
+      {
+        "id": 278,
+        "text": "Your light will shine brightest when you embrace who you truly are.",
+        "author": "Rakim",
+        "song": "Microphone Fiend"
+      },
+      {
+        "id": 279,
+        "text": "The road to success is paved with hard work and sacrifice.",
+        "author": "Big Daddy Kane",
+        "song": "Set It Off"
+      },
+      {
+        "id": 280,
+        "text": "Don’t wait for the perfect moment, create it.",
+        "author": "MC Lyte",
+        "song": "Lyte as a Rock"
+      },
+      {
+        "id": 281,
+        "text": "Fear is just another step toward greatness.",
+        "author": "Ice-T",
+        "song": "High Rollers"
+      },
+      {
+        "id": 282,
+        "text": "Your strength lies in your ability to adapt and keep moving.",
+        "author": "KRS-One",
+        "song": "MC's Act Like They Don't Know"
+      },
+      {
+        "id": 283,
+        "text": "Success doesn’t come easy, but it’s worth every fight.",
+        "author": "Chuck D",
+        "song": "Shut 'Em Down"
+      },
+      {
+        "id": 284,
+        "text": "The journey is long, but persistence will take you far.",
+        "author": "LL Cool J",
+        "song": "Around the Way Girl"
+      },
+      {
+        "id": 285,
+        "text": "Don’t be afraid to stand out, that’s where your power lies.",
+        "author": "Queen Latifah",
+        "song": "Wrath of My Madness"
+      },
+      {
+        "id": 286,
+        "text": "Each day is a chance to be better than yesterday.",
+        "author": "Rakim",
+        "song": "Follow the Leader"
+      },
+      {
+        "id": 287,
+        "text": "Keep your goals in sight and your hustle relentless.",
+        "author": "Big Daddy Kane",
+        "song": "Warm It Up, Kane"
+      },
+      {
+        "id": 288,
+        "text": "Every challenge you face makes you stronger for the next one.",
+        "author": "Ice-T",
+        "song": "I'm Your Pusher"
+      },
+      {
+        "id": 289,
+        "text": "Believe in yourself, and the world will believe in you too.",
+        "author": "MC Lyte",
+        "song": "10% Dis"
+      },
+      {
+        "id": 290,
+        "text": "Your potential is endless when you let go of fear.",
+        "author": "KRS-One",
+        "song": "Outta Here"
+      },
+      {
+        "id": 291,
+        "text": "Stand firm in your truth, and the world will follow your lead.",
+        "author": "Chuck D",
+        "song": "Can’t Truss It"
+      },
+      {
+        "id": 292,
+        "text": "Keep pushing forward, even when the road gets rough.",
+        "author": "Rakim",
+        "song": "Move the Crowd"
+      },
+      {
+        "id": 293,
+        "text": "You have the power to change your world; start with your mind.",
+        "author": "Big Daddy Kane",
+        "song": "The Symphony"
+      },
+      {
+        "id": 294,
+        "text": "Fear nothing, because you’re capable of anything.",
+        "author": "LL Cool J",
+        "song": "To Da Break of Dawn"
+      },
+      {
+        "id": 295,
+        "text": "Your strength is in your resilience, keep rising.",
+        "author": "MC Lyte",
+        "song": "Eyes on This"
+      },
+      {
+        "id": 296,
+        "text": "The journey to greatness is a marathon, not a sprint.",
+        "author": "Ice-T",
+        "song": "Original Gangster"
+      },
+      {
+        "id": 297,
+        "text": "Success is built on a strong foundation of self-belief.",
+        "author": "KRS-One",
+        "song": "Rappaz R. N. Dainja"
+      },
+      {
+        "id": 298,
+        "text": "Don’t wait for success to find you; go out and create it.",
+        "author": "Queen Latifah",
+        "song": "Fly Girl"
+      },
+      {
+        "id": 299,
+        "text": "Be fearless in your pursuit of greatness.",
+        "author": "Rakim",
+        "song": "Let the Rhythm Hit 'Em"
+      },
+      {
+        "id": 300,
+        "text": "Rise above your challenges and embrace your strength.",
+        "author": "Chuck D",
+        "song": "Welcome to the Terrordome"
+      },
+       {
+        "id": 301,
+        "text": "Never stop learning, it's the key to unlocking your potential.",
+        "author": "KRS-One",
+        "song": "You Must Learn"
+      },
+      {
+        "id": 302,
+        "text": "Your greatness is in your growth, never stop evolving.",
+        "author": "Big Daddy Kane",
+        "song": "Ain’t No Stoppin’ Us Now"
+      },
+      {
+        "id": 303,
+        "text": "Turn your passion into your power, and success will follow.",
+        "author": "LL Cool J",
+        "song": "I Need Love"
+      },
+      {
+        "id": 304,
+        "text": "Stay true to yourself, and everything else will fall in place.",
+        "author": "Queen Latifah",
+        "song": "Ladies First"
+      },
+      {
+        "id": 305,
+        "text": "Keep your mind open and your heart strong.",
+        "author": "Rakim",
+        "song": "Lyrics of Fury"
+      },
+      {
+        "id": 306,
+        "text": "Your hustle is your voice, make sure it's heard.",
+        "author": "Ice-T",
+        "song": "Power"
+      },
+      {
+        "id": 307,
+        "text": "Face every challenge with confidence and courage.",
+        "author": "MC Lyte",
+        "song": "Stop, Look, Listen"
+      },
+      {
+        "id": 308,
+        "text": "Success is in the details, don’t overlook them.",
+        "author": "KRS-One",
+        "song": "The Bridge Is Over"
+      },
+      {
+        "id": 309,
+        "text": "Your determination will open doors others thought were closed.",
+        "author": "Chuck D",
+        "song": "Black Steel in the Hour of Chaos"
+      },
+      {
+        "id": 310,
+        "text": "Don't let fear control you; let ambition guide you.",
+        "author": "Big Daddy Kane",
+        "song": "Young, Gifted and Black"
+      },
+      {
+        "id": 311,
+        "text": "Success is earned, not given. Work for it every day.",
+        "author": "LL Cool J",
+        "song": "I’m That Type of Guy"
+      },
+      {
+        "id": 312,
+        "text": "Believe in the power of your dreams, they’ll take you far.",
+        "author": "Queen Latifah",
+        "song": "Dance for Me"
+      },
+      {
+        "id": 313,
+        "text": "Every step forward brings you closer to your goals.",
+        "author": "Rakim",
+        "song": "Mahogany"
+      },
+      {
+        "id": 314,
+        "text": "Your strength comes from your struggles, embrace them.",
+        "author": "Ice-T",
+        "song": "The Tower"
+      },
+      {
+        "id": 315,
+        "text": "Stay focused, stay hungry, and never settle for less.",
+        "author": "KRS-One",
+        "song": "Hip Hop Lives"
+      },
+      {
+        "id": 316,
+        "text": "In every challenge lies an opportunity for greatness.",
+        "author": "Chuck D",
+        "song": "Night of the Living Baseheads"
+      },
+      {
+        "id": 317,
+        "text": "Your dreams are your blueprint; build them strong.",
+        "author": "Big Daddy Kane",
+        "song": "Get Into It"
+      },
+      {
+        "id": 318,
+        "text": "Success is a mindset; cultivate it daily.",
+        "author": "LL Cool J",
+        "song": "The Boomin' System"
+      },
+      {
+        "id": 319,
+        "text": "Every move you make today sets the stage for tomorrow.",
+        "author": "Queen Latifah",
+        "song": "Come Into My House"
+      },
+      {
+        "id": 320,
+        "text": "You have the power to change the world, start with yourself.",
+        "author": "Rakim",
+        "song": "Move the Crowd"
+      },
+      {
+        "id": 321,
+        "text": "Never let failure stop you, it’s just a lesson in disguise.",
+        "author": "Ice-T",
+        "song": "Drama"
+      },
+      {
+        "id": 322,
+        "text": "Your journey is unique, embrace every step of it.",
+        "author": "MC Lyte",
+        "song": "I Cram to Understand U"
+      },
+      {
+        "id": 323,
+        "text": "Dream big, but remember, it takes action to achieve greatness.",
+        "author": "KRS-One",
+        "song": "Why Is That?"
+      },
+      {
+        "id": 324,
+        "text": "Keep your eyes on the prize and your feet on the ground.",
+        "author": "Chuck D",
+        "song": "He Got Game"
+      },
+      {
+        "id": 325,
+        "text": "Success is a journey, not a destination. Keep moving forward.",
+        "author": "Big Daddy Kane",
+        "song": "It's a Big Daddy Thing"
+      },
+      {
+        "id": 326,
+        "text": "The only limit to your success is the one you set yourself.",
+        "author": "LL Cool J",
+        "song": "Big Ole Butt"
+      },
+      {
+        "id": 327,
+        "text": "Every setback is a setup for a stronger comeback.",
+        "author": "Queen Latifah",
+        "song": "Queen of Royal Badness"
+      },
+      {
+        "id": 328,
+        "text": "Perseverance is the key to unlocking your potential.",
+        "author": "Rakim",
+        "song": "Eric B. Is President"
+      },
+      {
+        "id": 329,
+        "text": "Don’t just chase success, attract it through your actions.",
+        "author": "Ice-T",
+        "song": "Girls L.G.B.N.A.F."
+      },
+      {
+        "id": 330,
+        "text": "Your success is defined by how many times you get up, not fall.",
+        "author": "KRS-One",
+        "song": "9mm Goes Bang"
+      },
+      {
+        "id": 331,
+        "text": "Be the change you wish to see in the world, starting today.",
+        "author": "Chuck D",
+        "song": "Brothers Gonna Work It Out"
+      },
+      {
+        "id": 332,
+        "text": "Your grind is your greatest asset, invest in it daily.",
+        "author": "Big Daddy Kane",
+        "song": "Lean on Me"
+      },
+      {
+        "id": 333,
+        "text": "Success is built on hard work, discipline, and sacrifice.",
+        "author": "LL Cool J",
+        "song": "Going Back to Cali"
+      },
+      {
+        "id": 334,
+        "text": "Keep pushing the boundaries, that’s where growth happens.",
+        "author": "Queen Latifah",
+        "song": "Latifah's Law"
+      },
+      {
+        "id": 335,
+        "text": "Every step you take brings you closer to your dreams.",
+        "author": "Rakim",
+        "song": "Let the Rhythm Hit 'Em"
+      },
+      {
+        "id": 336,
+        "text": "Your focus determines your reality, stay locked in.",
+        "author": "Ice-T",
+        "song": "The Iceberg"
+      },
+      {
+        "id": 337,
+        "text": "A true champion is made in the face of adversity.",
+        "author": "KRS-One",
+        "song": "Love's Gonna Get'cha"
+      },
+      {
+        "id": 338,
+        "text": "The grind may be hard, but the results will speak for themselves.",
+        "author": "Chuck D",
+        "song": "Burn Hollywood Burn"
+      },
+      {
+        "id": 339,
+        "text": "Success doesn’t happen overnight, it’s earned day by day.",
+        "author": "Big Daddy Kane",
+        "song": "Young Gifted and Black"
+      },
+      {
+        "id": 340,
+        "text": "Your determination is the fuel for your success.",
+        "author": "LL Cool J",
+        "song": "Jingling Baby"
+      },
+      {
+        "id": 341,
+        "text": "Chase your dreams relentlessly, and the world will follow.",
+        "author": "Queen Latifah",
+        "song": "Nature of a Sista"
+      },
+      {
+        "id": 342,
+        "text": "Your greatness comes from what you’re willing to sacrifice.",
+        "author": "Rakim",
+        "song": "I Know You Got Soul"
+      },
+      {
+        "id": 343,
+        "text": "Keep your vision clear and your determination stronger.",
+        "author": "Ice-T",
+        "song": "You Played Yourself"
+      },
+      {
+        "id": 344,
+        "text": "A champion’s spirit is built through struggle and strength.",
+        "author": "KRS-One",
+        "song": "The Sound of da Police"
+      },
+      {
+        "id": 345,
+        "text": "Your hustle today shapes your future success.",
+        "author": "Chuck D",
+        "song": "Shut 'Em Down"
+      },
+      {
+        "id": 346,
+        "text": "Believe in your vision, even when no one else does.",
+        "author": "Big Daddy Kane",
+        "song": "The Wrath of Kane"
+      },
+      {
+        "id": 347,
+        "text": "Your strength lies in your consistency, keep showing up.",
+        "author": "LL Cool J",
+        "song": "Headsprung"
+      },
+      {
+        "id": 348,
+        "text": "Success is a journey, not a destination. Enjoy the ride.",
+        "author": "Queen Latifah",
+        "song": "Come Into My House"
+      },
+      {
+        "id": 349,
+        "text": "The harder you work, the luckier you get.",
+        "author": "Rakim",
+        "song": "In the Ghetto"
+      },
+      {
+        "id": 350,
+        "text": "Every challenge you face is an opportunity to grow stronger.",
+        "author": "Ice-T",
+        "song": "New Jack Hustler"
+      },
+      {
+        "id": 351,
+        "text": "Your mindset is your greatest weapon; keep it sharp.",
+        "author": "KRS-One",
+        "song": "MC's Act Like They Don't Know"
+      },
+      {
+        "id": 352,
+        "text": "Your future is determined by the effort you put in today.",
+        "author": "Chuck D",
+        "song": "By the Time I Get to Arizona"
+      },
+      {
+        "id": 353,
+        "text": "Dream big, work harder, and success will be yours.",
+        "author": "Big Daddy Kane",
+        "song": "Smooth Operator"
+      },
+      {
+        "id": 354,
+        "text": "Your grind will separate you from the rest. Keep pushing.",
+        "author": "LL Cool J",
+        "song": "I'm Bad"
+      },
+      {
+        "id": 355,
+        "text": "Success is earned through hard work and persistence.",
+        "author": "Queen Latifah",
+        "song": "Latifah's Had It Up 2 Here"
+      },
+      {
+        "id": 356,
+        "text": "Stay true to yourself, and everything else will fall in place.",
+        "author": "Rakim",
+        "song": "Follow the Leader"
+      },
+      {
+        "id": 357,
+        "text": "Your struggles today prepare you for success tomorrow.",
+        "author": "Ice-T",
+        "song": "Colors"
+      },
+      {
+        "id": 358,
+        "text": "The key to success is in your persistence.",
+        "author": "KRS-One",
+        "song": "Jack of Spades"
+      },
+      {
+        "id": 359,
+        "text": "Stay focused on your goals, and you will achieve greatness.",
+        "author": "Chuck D",
+        "song": "911 Is a Joke"
+      },
+      {
+        "id": 360,
+        "text": "The journey may be tough, but the results are worth it.",
+        "author": "Big Daddy Kane",
+        "song": "Ain't No Half-Steppin'"
+      },
+      {
+        "id": 361,
+        "text": "Your dreams are within reach, just keep moving forward.",
+        "author": "LL Cool J",
+        "song": "Rock the Bells"
+      },
+      {
+        "id": 362,
+        "text": "Your greatness is built in moments of persistence and patience.",
+        "author": "Queen Latifah",
+        "song": "Black Hand Side"
+      },
+      {
+        "id": 363,
+        "text": "No obstacle can stop you if your vision is clear.",
+        "author": "Rakim",
+        "song": "I Ain't No Joke"
+      },
+      {
+        "id": 364,
+        "text": "Turn every challenge into an opportunity to grow.",
+        "author": "Ice-T",
+        "song": "Original Gangster"
+      },
+      {
+        "id": 365,
+        "text": "Success doesn’t come overnight, but it will come with hard work.",
+        "author": "KRS-One",
+        "song": "Step Into a World"
+      }
+      
+    ]
+  }
+  

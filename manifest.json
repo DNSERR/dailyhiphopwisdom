@@ -1,0 +1,43 @@
+{
+  "manifest_version": 3,
+  "name": "Daily Hip Hop Wisdom",
+  "version": "1.3",
+  "description": "Provides daily positive affirmations inspired by hip hop lyrics, with customizable settings and donation option.",
+  "permissions": [
+    "storage",
+    "notifications",
+    "alarms"
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "48": "images/hiphop_inspo2.png",
+      "128": "images/hiphop_inspo2.png"
+    }
+  },
+  "icons": {
+    "48": "images/hiphop_inspo2.png",
+    "128": "images/hiphop_inspo2.png"
+  },
+  "web_accessible_resources": [{
+    "resources": [
+      "quotes.json",
+      "images/hiphop_inspo2.png"
+    ],
+    "matches": ["<all_urls>"]
+  }],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "options_page": "settings.html",
+  "host_permissions": [
+    "https://buy.stripe.com/*"
+  ]
+}
+
+
+
+
+
+
+

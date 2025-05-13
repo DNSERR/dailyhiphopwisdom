@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Daily Hip Hop Wisdom</title>
+
+  <!-- Adding Google Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+
+  <style>
+    body {
+      font-family: 'Roboto', sans-serif;
+      padding: 20px;
+      width: 300px;
+      text-align: center;
+    }
+
+    #quote {
+      font-size: 20px;
+      font-weight: bold;
+      margin-bottom: 15px;
+      transition: opacity 0.3s ease;
+    }
+
+    #artist-song {
+      font-size: 14px;
+      text-align: center;
+      color: #555;
+      margin-bottom: 15px;
+    }
+
+    /* Button Styling */
+    button {
+      padding: 10px;
+      font-size: 14px;
+      border-radius: 5px;
+      border: none;
+      cursor: pointer;
+      transition: background-color 0.3s ease;
+      margin-bottom: 10px;
+      width: 100%; /* Ensure buttons take full width */
+    }
+
+    button:hover {
+      background-color: #007bff;
+      color: white;
+    }
+
+    #journal-entry {
+      width: 100%;
+      height: 100px;
+      font-size: 14px;
+      padding: 10px;
+      margin-bottom: 10px;
+      box-sizing: border-box;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+    }
+
+    #hiphop-image {
+      width: 80px;
+      height: auto;
+      margin-bottom: 15px;
+    }
+
+    #donate {
+      background-color: #28a745; /* Green color for donate button */
+      color: white;
+    }
+
+    #donate:hover {
+      background-color: #218838;
+    }
+  </style>
+</head>
+
+<body>
+  <!-- Image -->
+  <img id="hiphop-image" src="images/hiphop_inspo2.png" alt="Hip Hop Inspirational Image">
+
+  <!-- Quote Section -->
+  <div id="quote">Loading...</div>
+  <div id="artist-song"></div>
+
+  <!-- Journal Section -->
+  <textarea id="journal-entry" placeholder="Gratitude Journal/ Your 3 wins for the day..."></textarea>
+  <button id="save-journal">Save Journal Entry</button>
+  <button id="print-journal">Print Journal</button>
+
+  <!-- New Quote and Share Buttons -->
+  <button id="new-quote">New Quote</button>
+  <button id="share-quote">Share Quote via Email</button>
+  <button id="copy-quote">Copy Quote</button>
+
+  <!-- Donate Button -->
+  <button id="donate">Donate - Show some love!</button>
+
+  <script src="popup.js"></script>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
