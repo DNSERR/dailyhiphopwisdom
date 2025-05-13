@@ -29,4 +29,10 @@ Journaling sharpens clarity, builds emotional resilience, and reinforces success
 
 You can install Daily Hip Hop Wisdom from the [Chrome Web Store](https://chromewebstore.google.com/detail/pahiijifjggaobnjcidcghdgnffjjikp?utm_source=item-share-cb)
 
+---
+
+## Source Code
+
+The full source code of this Chrome extension is available in this repository for transparency, inspiration, and learning. All rights reserved by Club DiPali under the MIT License.
+
 
