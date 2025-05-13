@@ -35,4 +35,7 @@ You can install Daily Hip Hop Wisdom from the [Chrome Web Store](https://chromew
 
 The full source code of this Chrome extension is available in this repository for transparency, inspiration, and learning. All rights reserved by Club DiPali under the MIT License.
 
+## Preview
+
+![Preview of Daily Hip Hop Wisdom Chrome Extension]([club dipali hip hop journal 1.png](https://github.com/DNSERR/dailyhiphopwisdom/blob/50165d486ef9af6242d8a27a76ac09741b8f5d81/club%20dipali%20hip%20hop%20journal%201.png))
 
